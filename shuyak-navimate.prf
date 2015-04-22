@@ -1,0 +1,5 @@
+root = /home/hans/navimate
+root = ssh://navimate@afognak//mnt/data/navimate
+
+path = data
+path = mma

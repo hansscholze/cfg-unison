@@ -1,5 +1,0 @@
-root = /home/hans/.cfg/home
-root = /home/hans
-
-include cfg-text-home
-include cfg-graphical-home

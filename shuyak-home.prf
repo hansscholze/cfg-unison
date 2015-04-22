@@ -1,0 +1,13 @@
+root = /home/hans
+root = ssh://hans@hcs.homedns.org//mnt/data/hans
+
+path = mma
+path = mmalib
+path = mtb
+path = projects
+path = reference
+path = temp
+path = waypoints
+
+path = people
+path = stuff.gpg
