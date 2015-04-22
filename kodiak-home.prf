@@ -15,6 +15,14 @@ path = mma
 path = mmalib
 path = mtb
 path = music
+
+path = navimate/data
+path = navimate/em/datasheets
+path = navimate/em/documentation
+path = navimate/em/electrical
+path = navimate/em/mechanical
+path = navimate/mma
+
 path = pictures
 follow = Path pictures
 path = pictures_unsorted
