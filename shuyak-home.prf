@@ -6,6 +6,10 @@ watch = false
 path = mma
 path = mmalib
 path = mtb
+
+path = navimate/data
+path = navimate/mma
+
 path = projects
 path = reference
 path = shb
