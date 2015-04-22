@@ -1,6 +1,8 @@
 root = /home/hans
 root = ssh://hans@afognak//mnt/data/hans
 
+watch = false
+
 path = archive
 path = backups
 follow = Path backups

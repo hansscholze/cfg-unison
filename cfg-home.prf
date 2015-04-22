@@ -1,5 +1,7 @@
 root = /home/hans/.cfg/home
 root = /home/hans
 
+watch = false
+
 include cfg-home-text
 include cfg-home-graphical

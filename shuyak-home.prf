@@ -1,6 +1,8 @@
 root = /home/hans
 root = ssh://hans@hcs.homedns.org//mnt/data/hans
 
+watch = false
+
 path = mma
 path = mmalib
 path = mtb
