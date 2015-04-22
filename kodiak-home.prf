@@ -21,6 +21,7 @@ path = projects
 path = reference
 path = resume
 path = shareoptics
+path = shb
 path = software
 follow = Path software
 path = suit
