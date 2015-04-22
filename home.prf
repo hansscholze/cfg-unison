@@ -1,0 +1,32 @@
+root = /home/hans
+root = ssh://hans@afognak//mnt/data/hans
+
+path = archive
+path = backups
+follow = Path backups
+path = gcs
+path = geo
+path = hunting
+path = manuals
+follow = Path manuals
+path = mma
+path = mmalib
+path = mtb
+path = music
+path = pictures
+follow = Path pictures
+path = pictures_unsorted
+path = pkg
+path = projects
+path = reference
+path = resume
+path = shareoptics
+path = software
+follow = Path software
+path = suit
+path = temp
+path = video
+follow = Path video
+
+path = book_list
+path = stuff

@@ -1,0 +1,7 @@
+path = .profile
+path = .profile.d
+path = .bash_profile
+path = .bashrc
+path = .bashrc.d
+
+path = .nanorc
