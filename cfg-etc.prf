@@ -1,0 +1,17 @@
+# This profile goes over SSH even though the roots are on the same machine so
+# that there can be one Unison process accessing /etc as root and another
+# accessing the git repository as a normal user.
+#
+# 1. add root's public key to user's authorized_keys
+# 2. symlink the profile from /root/.unison
+# 3. run the profile as root
+
+root = /etc
+root = ssh://hans@localhost//home/hans/.cfg/etc-kodiak-union
+
+watch = false
+
+path = X11/xorg.conf.kodiak
+path = hostname
+path = locale.gen
+path = pacman.conf
