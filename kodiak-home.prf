@@ -6,6 +6,7 @@ watch = false
 path = archive
 path = backups
 follow = Path backups
+path = cfg
 path = gcs
 path = geo
 path = hunting

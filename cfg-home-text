@@ -5,3 +5,5 @@ path = .bashrc
 path = .bashrc.d
 
 path = .nanorc
+
+path = .config/cower

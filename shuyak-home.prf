@@ -3,6 +3,9 @@ root = ssh://hans@hcs.homedns.org//mnt/data/hans
 
 watch = false
 
+path = cfg
+path = gcs
+path = geo
 path = mma
 path = mmalib
 path = mtb
@@ -14,7 +17,6 @@ path = projects
 path = reference
 path = shb
 path = temp
-path = waypoints
 
-path = people
-path = stuff.gpg
+path = book_list
+path = stuff

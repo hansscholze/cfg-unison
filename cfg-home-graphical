@@ -1,2 +1,7 @@
 path = .xinitrc
 path = .Xresources
+
+path = .kde4/share/config/okularrc
+path = .kde4/share/config/okularpartrc
+path = .kde4/share/apps/okular/shell.rc
+path = .kde4/share/apps/okular/part.rc
